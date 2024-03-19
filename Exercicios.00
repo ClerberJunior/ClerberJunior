@@ -1,0 +1,76 @@
+print("Ola, Mundo")
+
+A=6
+B=4
+ext=A
+A=B
+B=ext
+print("A rebe valor de B e ext recebe valor de A", A,B)
+valor1= True
+valor2= False
+
+resultado= valor1 or valor2 , valor1 and valor2
+print(resultado)
+#Teste.00
+x= 10
+if 10:
+    print("Rosquinha")
+else:
+    print("Ace") 
+    #IF (se) 
+    
+#Teste.01
+"""D8=8
+D20=int(input("Dado: "))
+if D20 >= 20:
+    print(f"!Acerto! {D20} !Critico!")
+else:
+    print(f"?Falha? {D20} ?critica?")
+    """
+#Teste.02
+"""D20=int(input("Dado: "))
+Bonus=int(input("Bonus de raça: "))
+Soma=Bonus+D20
+
+if Soma >= 40:
+    print(f"!Acerto! {Soma} !Critico!")
+else:
+    print(f"?Falha? {Soma} ?critica?")
+     """
+     
+#teste.03
+ # Resultado. Objetivo Randomizar o D20!
+D20=int(input("Dado: "))
+Bonus=int(input("Bonus de raça: "))
+Soma=Bonus+D20 
+
+if Soma > 20:
+    print(f"!Acerto! {Soma} !Critico!")
+elif Soma < 20:
+    print(f"?Falha? {Soma} ?critica?")
+    if Soma <= 19:
+        print("Morte")
+    else:  #Condição aplicada caso erre o golpe.
+        print("Vivo")
+if Soma > 20:    # Golpe
+    Golpe=int(input("Golpe: "))
+    if Golpe:   #Valor do Golpe
+        print(f"Você deu {Golpe} de dano!")
+        
+#Versão.02
+D20=int(input("Dado: "))
+Bonus=int(input("Bonus de raça: "))
+Soma=Bonus+D20 
+
+if Soma > 20:
+    print(f"!Acerto! {Soma} !Critico!")
+    print("Vivo")
+elif Soma < 20:
+    print(f"?Falha? {Soma} ?critica?")
+    print("Morte")
+if Soma > 20:    # Golpe
+    Golpe=int(input("Golpe: "))
+    if Golpe:   #Valor do Golpe
+        print(f"Você deu {Golpe} de dano!")
+else:
+    print("Fim...")
