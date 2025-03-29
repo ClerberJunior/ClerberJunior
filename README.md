@@ -13,13 +13,9 @@
   </a>
 </div>
 
-<!-- Seção 3: Texto com borda -->
-<div style="display: flex; justify-content: center; align-items: center; 
-            border: 3px solid #E94D5F; border-radius: 8px; padding: 15px; 
-            width: fit-content; margin: 20px auto; background-color: #111; 
-            color: #FFF; font-size: 1.2em; font-weight: bold;">
-  Módulo 3 em TI - CEET Vasco Coutinho
-</div>
+## Módulo 3 em TI CEET Vasco Coutinho
+
+---
 
 <!-- Seção 5: Diagramas lado a lado -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px; width: 100%;">
@@ -28,5 +24,24 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClerberJunior&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" 
        alt="Top Langs Compact" style="max-width: 48%; height: auto; min-width: 300px;">
 </div>
+
+# Meu Projeto
+
+Este é um projeto incrível! Abaixo, você pode ver algumas estatísticas:
+
+---
+## Seguidores
+
+  <img src="https://img.shields.io/github/followers/ClerberJunior?style=social" alt="Github Followers">
+  
+[![Forks](https://img.shields.io/github/forks/ClerberJunior/dio-lab-open-source?style=social)](https://github.com/ClerberJunior/dio-lab-open-source/forks)
+
+  <img src="https://img.shields.io/github/stars/ClerberJunior?style=social" alt="Star">
+
+[![GitHub Issues](https://img.shields.io/github/issues/ClerberJunior/dio-lab-open-source?style=social)](https://github.com/ClerberJunior/dio-lab-open-source/issues/)
+
+## Contagem de Visitas
+
+![Visitor Count](https://profile-counter.glitch.me/ClerberJunior/count.svg)
 
 
