@@ -14,10 +14,11 @@
 </div>
 
 <!-- Seção 3: Texto com borda -->
-<div style="display: flex; justify-content: center; align-items: center; border-bottom: 2px solid; margin-top: 20px; padding-bottom: 10px; width: 80%; margin: auto;">
-  <p style="font-size: 1.2em; font-weight: bold; text-align: center;">
-    Módulo 3 em TI - CEET Vasco Coutinho
-  </p>
+<div style="display: flex; justify-content: center; align-items: center; 
+            border: 3px solid #E94D5F; border-radius: 8px; padding: 15px; 
+            width: fit-content; margin: 20px auto; background-color: #111; 
+            color: #FFF; font-size: 1.2em; font-weight: bold;">
+  Módulo 3 em TI - CEET Vasco Coutinho
 </div>
 
 <!-- Seção 5: Diagramas lado a lado -->
